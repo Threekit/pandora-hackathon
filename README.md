@@ -1,3 +1,8 @@
+## Threekit x Pandora
+
+This app's token authorizes it on localhost:3000. Threekit will not load on other ports/hosts. Please get in touch for additional tokens to be created. 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
