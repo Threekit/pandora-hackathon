@@ -1,0 +1,41 @@
+{
+  "name": "threehub-jr",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@google/model-viewer": "^0.7.2",
+    "@simonwep/pickr": "^1.7.4",
+    "antd": "^3.25.1",
+    "dotenv": "^8.2.0",
+    "lodash": "^4.17.21",
+    "react": "^16.11.0",
+    "react-color": "^2.18.1",
+    "react-device-detect": "^1.9.10",
+    "react-dom": "^16.11.0",
+    "react-ga": "^2.7.0",
+    "react-router": "^5.1.2",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "^3.4.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
